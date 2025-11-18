@@ -15,7 +15,7 @@ tools = [
     {
         "type": "function",
         "function": {
-            "name": "sim_add_numbers",
+            "name": "add_numbers",
             "description": "Adds two numbers together and returns the sum.",
             "parameters": {
                 "type": "object",
